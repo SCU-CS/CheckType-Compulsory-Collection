@@ -6,15 +6,6 @@ The template of course repository
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.Collection-Course-Template)
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
-> 创建之后，需要手动改上面几个链接 主要就是把 `Collection-Course-Template` 改成当前仓库名就好了。
-
-结构设计图
-
-![architecture](images/architecture.png)
-
-课程增减等需要改动侧边栏的操作，需要改文件 `docsify.d/SideBar.md`
-
-图片放在 **images** 文件夹下
 
 ## 免责
 

@@ -1,3 +1,3 @@
 - [首页](README.md)
 - 课程涵盖
-  - [demo](courses/demo-course.md)
+  - [研究与开发实践](courses/Practice_in_Research_and_Development.md)
